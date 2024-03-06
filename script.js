@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Kiểm tra tên đăng nhập và mật khẩu
     // Trong trường hợp thực, bạn có thể thay thế đoạn mã này bằng việc kiểm tra với dữ liệu đăng nhập thực tế từ máy chủ
-    if (usernameInput === "yourusername" && passwordInput === "yourpassword") {
+    if (usernameInput === "Sis 10 ESC" && passwordInput === "26sis10Anh") {
       isLoggedIn = true; // Đặt trạng thái đăng nhập là true
       loginForm.style.display = "none"; // Ẩn biểu mẫu đăng nhập
       mainContent.style.display = "block"; // Hiển thị phần nội dung chính
